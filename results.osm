@@ -1,0 +1,417 @@
+<osm version="0.6">
+  <node id="330767681" lat="41.11688" lon="-85.10573" visible="true"/>
+  <node id="178825671" lat="41.11679" lon="-85.10629" visible="true"/>
+  <node id="178825672" lat="41.11657" lon="-85.10642" visible="true"/>
+  <node id="330767795" lat="41.1172" lon="-85.10645" visible="true"/>
+  <node id="330767766" lat="41.11736" lon="-85.10708" visible="true"/>
+  <node id="330767768" lat="41.11744" lon="-85.10715" visible="true"/>
+  <node id="330768309" lat="41.11628" lon="-85.10663" visible="true"/>
+  <node id="330767770" lat="41.11751" lon="-85.1072" visible="true"/>
+  <node id="330768311" lat="41.11638" lon="-85.10687" visible="true"/>
+  <node id="330768323" lat="41.11633" lon="-85.1083" visible="true"/>
+  <node id="330767679" lat="41.11744" lon="-85.10587" visible="true"/>
+  <node id="330768325" lat="41.11624" lon="-85.10843" visible="true"/>
+  <way id="1572000000" visible="true">
+    <nd ref="330767681"/>
+    <nd ref="178825671"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000001" visible="true">
+    <nd ref="330767681"/>
+    <nd ref="330767679"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000002" visible="true">
+    <nd ref="330767681"/>
+    <nd ref="330767731"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000003" visible="true">
+    <nd ref="178825671"/>
+    <nd ref="330767795"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000004" visible="true">
+    <nd ref="178825671"/>
+    <nd ref="178825672"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000005" visible="true">
+    <nd ref="178825672"/>
+    <nd ref="330768309"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000006" visible="true">
+    <nd ref="330767795"/>
+    <nd ref="330767679"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000007" visible="true">
+    <nd ref="330767795"/>
+    <nd ref="330767766"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000008" visible="true">
+    <nd ref="330767766"/>
+    <nd ref="330767768"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000009" visible="true">
+    <nd ref="330767768"/>
+    <nd ref="330767770"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000010" visible="true">
+    <nd ref="330768309"/>
+    <nd ref="330768311"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000011" visible="true">
+    <nd ref="330768309"/>
+    <nd ref="343607911"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000012" visible="true">
+    <nd ref="330768309"/>
+    <nd ref="330768307"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000013" visible="true">
+    <nd ref="330767770"/>
+    <nd ref="343606010"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000014" visible="true">
+    <nd ref="330768311"/>
+    <nd ref="330768323"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000015" visible="true">
+    <nd ref="330768311"/>
+    <nd ref="330768442"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000016" visible="true">
+    <nd ref="330768323"/>
+    <nd ref="330768325"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000017" visible="true">
+    <nd ref="330768323"/>
+    <nd ref="330768442"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000018" visible="true">
+    <nd ref="330767679"/>
+    <nd ref="343605955"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000019" visible="true">
+    <nd ref="330768325"/>
+    <nd ref="343605409"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <node id="330767489" lat="41.11637" lon="-85.10871" visible="true"/>
+  <node id="330768332" lat="41.11677" lon="-85.10962" visible="true"/>
+  <node id="343607911" lat="41.11604" lon="-85.10679" visible="true"/>
+  <node id="330768442" lat="41.11714" lon="-85.10836" visible="true"/>
+  <node id="343607919" lat="41.11709" lon="-85.11069" visible="true"/>
+  <node id="330768194" lat="41.11684" lon="-85.11121" visible="true"/>
+  <node id="330768453" lat="41.11686" lon="-85.11238" visible="true"/>
+  <node id="330767453" lat="41.11687" lon="-85.11247" visible="true"/>
+  <node id="343607915" lat="41.1174" lon="-85.11113" visible="true"/>
+  <node id="330768440" lat="41.11767" lon="-85.10916" visible="true"/>
+  <node id="330768192" lat="41.11642" lon="-85.1098" visible="true"/>
+  <way id="1572000020" visible="true">
+    <nd ref="330768325"/>
+    <nd ref="330767489"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000021" visible="true">
+    <nd ref="330767489"/>
+    <nd ref="330768332"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000022" visible="true">
+    <nd ref="330767489"/>
+    <nd ref="330768056"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000023" visible="true">
+    <nd ref="330768332"/>
+    <nd ref="330768440"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000024" visible="true">
+    <nd ref="330768332"/>
+    <nd ref="343607919"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000025" visible="true">
+    <nd ref="330768332"/>
+    <nd ref="330768192"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000026" visible="true">
+    <nd ref="343607911"/>
+    <nd ref="343607908"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000027" visible="true">
+    <nd ref="343607911"/>
+    <nd ref="178825675"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000028" visible="true">
+    <nd ref="330768442"/>
+    <nd ref="330768440"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000029" visible="true">
+    <nd ref="343607919"/>
+    <nd ref="330768194"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000030" visible="true">
+    <nd ref="343607919"/>
+    <nd ref="343607915"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000031" visible="true">
+    <nd ref="343607919"/>
+    <nd ref="330768193"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000032" visible="true">
+    <nd ref="330768194"/>
+    <nd ref="330768453"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000033" visible="true">
+    <nd ref="330768194"/>
+    <nd ref="330768193"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000034" visible="true">
+    <nd ref="330768453"/>
+    <nd ref="330767453"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000035" visible="true">
+    <nd ref="330767453"/>
+    <nd ref="330767370"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000036" visible="true">
+    <nd ref="330767453"/>
+    <nd ref="330767447"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000037" visible="true">
+    <nd ref="330768440"/>
+    <nd ref="330768242"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000038" visible="true">
+    <nd ref="330768192"/>
+    <nd ref="330768203"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000039" visible="true">
+    <nd ref="330768192"/>
+    <nd ref="330768193"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <node id="343606010" lat="41.11787" lon="-85.10709" visible="true"/>
+  <node id="330768193" lat="41.11672" lon="-85.11075" visible="true"/>
+  <node id="330768242" lat="41.1178" lon="-85.10909" visible="true"/>
+  <node id="330768237" lat="41.1183" lon="-85.11109" visible="true"/>
+  <node id="330768056" lat="41.11571" lon="-85.10904" visible="true"/>
+  <node id="343605409" lat="41.11574" lon="-85.1084" visible="true"/>
+  <node id="343607920" lat="41.11634" lon="-85.11097" visible="true"/>
+  <node id="178825675" lat="41.11524" lon="-85.10708" visible="true"/>
+  <node id="330768203" lat="41.11551" lon="-85.11022" visible="true"/>
+  <node id="330767370" lat="41.11563" lon="-85.11328" visible="true"/>
+  <node id="330768164" lat="41.11471" lon="-85.10954" visible="true"/>
+  <node id="343607908" lat="41.11554" lon="-85.10605" visible="true"/>
+  <node id="330767507" lat="41.11427" lon="-85.1128" visible="true"/>
+  <node id="330767372" lat="41.11457" lon="-85.11387" visible="true"/>
+  <node id="343605955" lat="41.11847" lon="-85.10512" visible="true"/>
+  <node id="343605954" lat="41.11859" lon="-85.10547" visible="true"/>
+  <node id="343605957" lat="41.11834" lon="-85.10702" visible="true"/>
+  <node id="330768219" lat="41.11871" lon="-85.10862" visible="true"/>
+  <way id="1572000040" visible="true">
+    <nd ref="330768193"/>
+    <nd ref="343607920"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000041" visible="true">
+    <nd ref="330768242"/>
+    <nd ref="330768219"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000042" visible="true">
+    <nd ref="330768242"/>
+    <nd ref="330768237"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000043" visible="true">
+    <nd ref="330768056"/>
+    <nd ref="178825675"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000044" visible="true">
+    <nd ref="330768056"/>
+    <nd ref="330768164"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000045" visible="true">
+    <nd ref="178825675"/>
+    <nd ref="330768169"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000046" visible="true">
+    <nd ref="330767370"/>
+    <nd ref="330767507"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000047" visible="true">
+    <nd ref="330767370"/>
+    <nd ref="330767372"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000048" visible="true">
+    <nd ref="330768164"/>
+    <nd ref="330768169"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000049" visible="true">
+    <nd ref="330768164"/>
+    <nd ref="330767507"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000050" visible="true">
+    <nd ref="330767507"/>
+    <nd ref="330767372"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000051" visible="true">
+    <nd ref="330767372"/>
+    <nd ref="178817856"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000052" visible="true">
+    <nd ref="343605955"/>
+    <nd ref="343605954"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000053" visible="true">
+    <nd ref="343605955"/>
+    <nd ref="343605948"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000054" visible="true">
+    <nd ref="343605954"/>
+    <nd ref="343605957"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000055" visible="true">
+    <nd ref="343605954"/>
+    <nd ref="343605964"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000056" visible="true">
+    <nd ref="343605957"/>
+    <nd ref="343605969"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000057" visible="true">
+    <nd ref="343605957"/>
+    <nd ref="343605968"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000058" visible="true">
+    <nd ref="330768219"/>
+    <nd ref="330768468"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000059" visible="true">
+    <nd ref="330768219"/>
+    <nd ref="330768503"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <node id="343605968" lat="41.11865" lon="-85.10795" visible="true"/>
+  <node id="330768169" lat="41.11463" lon="-85.10675" visible="true"/>
+  <node id="343605969" lat="41.11816" lon="-85.10706" visible="true"/>
+  <node id="343605964" lat="41.11811" lon="-85.10597" visible="true"/>
+  <node id="178817856" lat="41.11408" lon="-85.11415" visible="true"/>
+  <node id="178814503" lat="41.11504" lon="-85.11732" visible="true"/>
+  <node id="343162082" lat="41.11753" lon="-85.12573" visible="true"/>
+  <node id="343167708" lat="41.11757" lon="-85.12587" visible="true"/>
+  <node id="178817851" lat="41.11808" lon="-85.12826" visible="true"/>
+  <way id="1572000060" visible="true">
+    <nd ref="330768169"/>
+    <nd ref="178825678"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000061" visible="true">
+    <nd ref="178817856"/>
+    <nd ref="178814503"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000062" visible="true">
+    <nd ref="178817856"/>
+    <nd ref="178811227"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000063" visible="true">
+    <nd ref="178817856"/>
+    <nd ref="341756054"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000064" visible="true">
+    <nd ref="178814503"/>
+    <nd ref="343162082"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000065" visible="true">
+    <nd ref="178814503"/>
+    <nd ref="178814502"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000066" visible="true">
+    <nd ref="178814503"/>
+    <nd ref="341756059"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000067" visible="true">
+    <nd ref="343162082"/>
+    <nd ref="343162095"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000068" visible="true">
+    <nd ref="343162082"/>
+    <nd ref="343162094"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000069" visible="true">
+    <nd ref="343162082"/>
+    <nd ref="343167708"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000070" visible="true">
+    <nd ref="343167708"/>
+    <nd ref="343167718"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000071" visible="true">
+    <nd ref="343167708"/>
+    <nd ref="178817851"/>
+    <tag k="highlight" v="2"/>
+  </way>
+  <way id="1572000072" visible="true">
+    <nd ref="343167708"/>
+    <nd ref="343167715"/>
+    <tag k="highlight" v="2"/>
+  </way>
+</osm>
